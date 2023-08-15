@@ -1,3 +1,4 @@
+//WAP to swap the content of two variables without using third variable.
 #include <stdio.h>
 
 int main() {
@@ -19,4 +20,3 @@ int main() {
     printf("After swapping first number = %d and second number = %d \n", firstNumber, secondNumber);
     return 0;
 }
-
