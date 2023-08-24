@@ -1,4 +1,4 @@
-//WAp to input time into seconds and convert it into hr,min,sec
+//WAP to input time into seconds and convert it into hr,min,sec
 #include <stdio.h>
 int main() {
     int sec,hr,min,seconds;
@@ -16,4 +16,4 @@ int main() {
     printf("Your given second %d is %d hours %d minutes and %d seconds \n",sec,hr,min,seconds);
     
     return 0;
-  }
+    }
